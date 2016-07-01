@@ -1,0 +1,29 @@
+{
+  "name": "campus-party-ej",
+  "version": "1.0.0",
+  "description": "ejemplo de babel en campus party",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "build": "babel src -d lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dandelarge/campus-party-ej.git"
+  },
+  "keywords": [
+    "babel",
+    "CPMX7",
+    "Denial"
+  ],
+  "author": "Denial",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dandelarge/campus-party-ej/issues"
+  },
+  "homepage": "https://github.com/dandelarge/campus-party-ej#readme",
+  "devDependencies": {
+    "babel-cli": "^6.10.1",
+    "babel-preset-es2015": "^6.9.0"
+  }
+}
